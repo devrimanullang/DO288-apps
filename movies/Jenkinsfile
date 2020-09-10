@@ -13,7 +13,7 @@ pipeline {
         DEV_PROJECT = "bridev4-movies-dev"
         STAGE_PROJECT = "bridev4-movies-stage"
         APP_GIT_URL = "https://github.com/devrimanullang/DO288-apps"
-        NEXUS_SERVER = "http://nexus-common.apps.ocp-ap4.prod.nextcle.com"
+        NEXUS_SERVER = "http://nexus-common.apps.ocp-ap4.prod.nextcle.com/repository/java"
 
         // DO NOT CHANGE THE GLOBAL VARS BELOW THIS LINE
         APP_NAME = "movies"
